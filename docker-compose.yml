@@ -9,4 +9,4 @@ services:
       - .:/app/elm-app
     container_name: elm-app
     ports:
-      - 2500:3000
+      - 3000:3000
